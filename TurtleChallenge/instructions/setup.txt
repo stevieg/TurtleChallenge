@@ -1,0 +1,6 @@
+/* This file sets up our Grid */
+x value = 3
+y value = 3
+mine value = 2,2
+mine value = 3,2
+goal value = 3,3
